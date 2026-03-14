@@ -22,3 +22,10 @@ Overall, this project highlights practical skills in real-time application devel
 
 #OUTPUT:
 
+<img width="1812" height="960" alt="Image" src="https://github.com/user-attachments/assets/77b63631-22ae-44c1-9338-16b0f8b2c34c" />
+
+<img width="1811" height="960" alt="Image" src="https://github.com/user-attachments/assets/3dfa869b-de1a-4bff-b41a-b85adc8c9a15" />
+
+<img width="1807" height="964" alt="Image" src="https://github.com/user-attachments/assets/7d0af350-f952-4884-8025-48131999e6ed" />
+
+<img width="1808" height="955" alt="Image" src="https://github.com/user-attachments/assets/88f82c49-5237-4f1f-af64-3c8fd223f9bc" />
